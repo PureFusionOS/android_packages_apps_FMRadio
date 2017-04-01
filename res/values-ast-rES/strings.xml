@@ -27,7 +27,9 @@
   <!-- Toast message shown when we record but sdcard has no free space [CHAR LIMIT=50] -->
   <!-- Toast message shown when record or playback record has some internal error
          [CHAR LIMIT=NONE] -->
+  <string name="toast_recorder_internal_error">¡Asocedió un fallu internu na grabadora!</string>
   <!-- Dialog "Save" button to save the FM recording [CHAR LIMIT=20] -->
+  <string name="btn_save_recording">Guardar</string>
   <!-- Dialog "Discard" button to discard the FM recording [CHAR LIMIT=20] -->
   <!-- EditText hint for save recording dialog [CHAR LIMIT=50] -->
   <!-- Toast message shown when we save the recording name which is already exists
@@ -49,6 +51,7 @@
          [CHAR LIMIT=30] -->
   <!-- Title of a menu item to start recording FM sound [CHAR LIMIT=30] -->
   <!-- Title of a menu item to see the saved recordings in play music  [CHAR LIMIT=30] -->
+  <string name="fm_over_record_list">Grabaciones guardaes</string>
   <!-- Title of a menu item to refresh the station list  [CHAR LIMIT=30] -->
   <string name="fm_station_list_menu_refresh">Refrescar</string>
   <!-- The tips shown when without an earphone or plug out the earphone [CHAR LIMIT=NONE] -->
@@ -75,6 +78,7 @@
   <!-- Title of a menu in favorite card more menu. It means remove a station from favorite
          [CHAR LIMIT=50] -->
   <!-- Snackbar message shown after we save a recording [CHAR LIMIT=50] -->
+  <string name="toast_record_saved">Guardóse la grabación</string>
   <!-- Snackbar message shown after we discard a recording [CHAR LIMIT=50] -->
   <!-- Button in snackbar shown we save a recording. It will enter play music to listen recording
          [CHAR LIMIT=12] -->
